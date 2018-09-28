@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common" />
+        <module name="data-processing" />
+        <module name="dataproducer" />
+        <module name="log-collector-common" />
+        <module name="log-collector-web" />
+        <module name="logcollectorweb" />
+        <module name="spark-streaming" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commerce_data_analysis_system" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="data-processing" target="1.7" />
+      <module name="dataproducer" target="1.8" />
+      <module name="log-analysis" target="1.8" />
+      <module name="log-collector-common" target="1.8" />
+      <module name="log-collector-web" target="1.8" />
+      <module name="logcollectorweb" target="1.8" />
+      <module name="spark-streaming" target="1.7" />
+      <module name="telephone_app_data_analysis" target="1.8" />
+      <module name="telephone_App_Data_Analysis" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

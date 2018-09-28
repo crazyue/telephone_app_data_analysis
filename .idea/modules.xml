@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-processing/data-processing.iml" filepath="$PROJECT_DIR$/data-processing/data-processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataproducer/dataproducer.iml" filepath="$PROJECT_DIR$/dataproducer/dataproducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-collector-common/log-collector-common.iml" filepath="$PROJECT_DIR$/log-collector-common/log-collector-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-collector-web/log-collector-web.iml" filepath="$PROJECT_DIR$/log-collector-web/log-collector-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/telephone_app_data_analysis.iml" filepath="$PROJECT_DIR$/telephone_app_data_analysis.iml" />
+    </modules>
+  </component>
+</project>
